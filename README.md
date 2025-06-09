@@ -1,0 +1,3 @@
+Performance recorder (audio only): https://soundcloud.com/feliperomagna/guerreira-das-pedras-live
+
+Technical details: https://www.researchgate.net/publication/391109940_The_Composition_of_Interactions_in_'Guerreira_das_Pedras'_2024?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19
