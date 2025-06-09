@@ -1,0 +1,10 @@
+Bibliotecas necessárias:
+
+send_hands.py
+    cvzone => https://github.com/cvzone/cvzone
+    opencv => pip install opencv-python
+    osc4py3 => pip install osc4py3
+
+receive_hands.py
+    wxpython => pip install wxPython
+    pyo => pip install pyo 
